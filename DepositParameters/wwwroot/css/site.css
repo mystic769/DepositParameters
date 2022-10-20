@@ -1,0 +1,23 @@
+﻿.main {
+    width: 600px;
+    margin: 100px auto;
+}
+
+#parameters {
+    margin: 20px 0;
+}
+
+#info {
+    margin: 20px 0;
+    padding: 9px 0;
+    float: left;
+}
+
+#button {
+    margin: 20px 0;
+    float: right;
+}
+
+.dx-datagrid-revert-tooltip {
+    display: none;
+}
